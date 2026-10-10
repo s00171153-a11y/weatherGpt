@@ -1,0 +1,11 @@
+{
+  "name": "WeatherGPT Voice — Talk to Your Weather",
+  "description": "Voice-enabled WeatherGPT with live GPS location, real-time forecast API, bilingual Tamil/English speech recognition and synthesis, and hands-free conversational assistant.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
